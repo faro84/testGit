@@ -2,8 +2,9 @@ package testGit.main;
 
 public class GitTest {
 
-	/**
-	 * @param args
+	/** Display few stupid lines
+	 * 
+	 * @param args list of arguments
 	 */
 	public static void main(String[] args) {
 		System.out.println("mah");
